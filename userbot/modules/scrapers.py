@@ -17,7 +17,6 @@ from urllib.error import HTTPError
 from urllib.parse import quote_plus
 
 from bs4 import BeautifulSoup
-from emoji import get_emoji_regexp
 from googletrans import LANGUAGES, Translator
 from gtts import gTTS
 from gtts.lang import tts_langs
